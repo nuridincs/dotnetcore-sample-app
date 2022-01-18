@@ -81,3 +81,4 @@
 /Users/muhammadnuridin/Sites/playground/dotnetcore/Myapp.Web/Myapp.Web/bin/Debug/netcoreapp3.1/Humanizer.dll
 /Users/muhammadnuridin/Sites/playground/dotnetcore/Myapp.Web/Myapp.Web/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
 /Users/muhammadnuridin/Sites/playground/dotnetcore/Myapp.Web/Myapp.Web/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_LayoutSbAdmin.cshtml.g.cs
+/Users/muhammadnuridin/Sites/playground/dotnetcore/Myapp.Web/Myapp.Web/obj/Debug/netcoreapp3.1/Razor/Views/Student/Create.cshtml.g.cs

@@ -7,5 +7,6 @@ namespace Myapp.Web.Data
     public interface IStudent
     {
         IEnumerable<Student> GetAll();
+        void Add(Student student);
     }
 }
