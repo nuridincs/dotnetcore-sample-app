@@ -1,16 +1,17 @@
 ﻿@model IEnumerable<Myapp.Web.Models.Student>
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Page Student";
+    Layout = "~/Views/Shared/_LayoutSbAdmin.cshtml";
 }
 
-<h1>Index</h1>
+<h1>Student Data</h1>
 
 <p>
     <a asp-action="Create">Create New</a>
 </p>
 
-<table class="table">
+<table class="table table-striped">
     <thead>
         <tr>
             <th>
