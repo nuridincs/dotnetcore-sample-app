@@ -9,9 +9,15 @@ namespace Myapp.Web.Models
     {
         [DatabaseGenerated(DatabaseGeneratedOption.None)]
         public int ID { get; set; }
+        [Display(Name = "First Name")]
+        [Required]
         public string FirstMidName { get; set; }
+        [Display(Name = "Last Name")]
+        [Required]
         public string LastName { get; set; }
-        public string Address { get; set; }
+        [Display(Name = "Address")]
+        [Required]
+        public string? Address { get; set; }
         public DateTime EnrollmentDate { get; set; }
         public ICollection<Enrollment> Enrollments { get; set; }
     }
