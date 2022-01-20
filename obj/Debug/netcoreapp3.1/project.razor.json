@@ -14407,6 +14407,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/muhammadnuridin/Sites/playground/dotnetcore/Myapp.Web/Myapp.Web/Views/Student/Create.cshtml",
+      "TargetPath": "Views\\Student\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/muhammadnuridin/Sites/playground/dotnetcore/Myapp.Web/Myapp.Web/Views/Shared/_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
@@ -14414,6 +14419,11 @@
     {
       "FilePath": "/Users/muhammadnuridin/Sites/playground/dotnetcore/Myapp.Web/Myapp.Web/Views/Home/About.cshtml",
       "TargetPath": "Views\\Home\\About.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/muhammadnuridin/Sites/playground/dotnetcore/Myapp.Web/Myapp.Web/Views/Shared/_LayoutSbAdmin.cshtml",
+      "TargetPath": "Views\\Shared\\_LayoutSbAdmin.cshtml",
       "FileKind": "mvc"
     },
     {
